@@ -568,6 +568,10 @@ footer {
 /*.footer*/
 
 @media (max-width:400px) {
+
+     html {
+        max-width: 865px;
+    }
     
     .red {
         margin-top: 280px;
